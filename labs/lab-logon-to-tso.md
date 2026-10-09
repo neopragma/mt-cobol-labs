@@ -16,6 +16,8 @@ The system will prompt you to confirm the new password. The display looks almost
 
 At that point, the system should start the Interactive System Productivity Facility (ISPF) and present you with the ISPF Primary Option Menu. 
 
+**Note:** If the lab system has not been configured to start ISPF automatically, enter "ISPF" at the TSO Ready prompt and press Enter.
+
 ## Step 2: Log off TSO and disconnect from z/OS 
 
 On the ISPF Primary Option Menu, enter "X" in the Command field and press Enter. This will end your ISPF session and land you at the TSO Ready prompt. 
