@@ -18,3 +18,5 @@ Navigate to Data Set Utilities in ISPF. Use the ISPF panels to allocate a new Pa
 ## Step 2: Verify data set attributes
 
 Navigate to the List Data Set option in ISPF. Search for data sets whose names begin with your TSO prefix. Locate the entry in the list for the data set you allocated in Step 1. View "info" about the data set. Visually compare the attributes shown with the values you intended to specify when you allocated the data set.
+
+**Note:** Don't skip ahead and allocate your COBOL source library. You'll do that in a subsequent lab using JCL instead of ISPF panels.
