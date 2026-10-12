@@ -15,3 +15,7 @@
 - [Lab 6: Allocate a QSAM data set using ISPF](labs/lab-ispf-allocate-qsam.md)
 - [Lab 7: Allocate a JCL library for yourself](labs/lab-ispf-allocate-library.md)
 - [Lab 8: Practice using the ISPF Editor](labs/lab-ispf-editor-1.md)
+
+## Job Control Language (JCL) 
+
+- [Lab 9: A simple batch job (that won't run)](labs/lab-job-with-no-steps.md)
