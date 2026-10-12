@@ -22,3 +22,4 @@
 - [Lab 10: The minimum batch job that will run](labs/lab-minimum-batch-job.md)
 - [Lab 11: A job to delete and re-allocate a QSAM data set](labs/lab-jcl-allocate-qsam.md)
 - [Lab 12: A job to delete and re-allocate a source library](labs/lab-jcl-allocate-source-library.md)
+- [Lab 13: A job to delete and re-allocate a program library](labs/lab-jcl-allocate-program-library.md)

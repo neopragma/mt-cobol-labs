@@ -10,6 +10,8 @@ Goals:
 
 Create a new member in your JCL library. Give it any name you choose. This job will have the same structure as the one you wrote in the previous lab, so you can initialize the new JCL member by copying that JCL into it.  
 
+**Note:** Be careful not to delete your JCL source library. If you do so, you will lose the work you've done so far. There is no recovery mechanism.
+
 ## Step 2: Modify the DD statements to refer to your COBOL source library 
 
 Code a DD statement that defines a PDSE for COBOL source code. Give the data set an appropriate data set name for its purpose, such as <userid>.LAB.COBOL. Specify record format fixed-blocked, logical record length 80, and a blocksize that is an even multiple of the logical record length.
