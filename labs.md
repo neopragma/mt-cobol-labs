@@ -19,3 +19,4 @@
 ## Job Control Language (JCL) 
 
 - [Lab 9: A simple batch job (that won't run)](labs/lab-job-with-no-steps.md)
+- [Lab 10: The minimum batch job that will run](labs/lab-minimum-batch-job.md)
