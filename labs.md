@@ -23,3 +23,6 @@
 - [Lab 11: A job to delete and re-allocate a QSAM data set](labs/lab-jcl-allocate-qsam.md)
 - [Lab 12: A job to delete and re-allocate a source library](labs/lab-jcl-allocate-source-library.md)
 - [Lab 13: A job to delete and re-allocate a program library](labs/lab-jcl-allocate-program-library.md)
+- [Lab 14: Use IEBGENER to copy inline data to SYSOUT](labs/lab-iebgener-copy-inline-to-sysout.md)
+- [Lab 15: Use IEBGENER to create and load a QSAM data set](labs/lab-iebgener-create-and-load.md)
+- [Lab 16: Use IEBGENER to copy and reformat data](labs/lab-iebgener-copy-and-reformat.md)
