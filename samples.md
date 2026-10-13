@@ -8,8 +8,6 @@ TBD
 
 ## COBOL samples
 
+- [BSKEL1. A batch skeleton program.](samples/cobol/BSKEL1.cbl)
 - [NOTHING. The minimal COBOL program that will compile.](samples/cobol/NOTHING.cbl)
 
-## Data files
-
-TBD
