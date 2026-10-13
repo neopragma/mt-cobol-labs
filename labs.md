@@ -26,3 +26,7 @@
 - [Lab 14: Use IEBGENER to copy inline data to SYSOUT](labs/lab-iebgener-copy-inline-to-sysout.md)
 - [Lab 15: Use IEBGENER to create and load a QSAM data set](labs/lab-iebgener-create-and-load.md)
 - [Lab 16: Use IEBGENER to copy and reformat data](labs/lab-iebgener-copy-and-reformat.md)
+
+## COBOL 
+
+- [Lab 17: Your first COBOL program](labs/lab-your-first-cobol-program.md)
