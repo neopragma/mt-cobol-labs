@@ -32,3 +32,4 @@
 - [Lab 17: Your first COBOL program](labs/lab-your-first-cobol-program.md)
 - [Lab 18: Your own IEFBR14 utility](labs/lab-the-do-nothing-program.md)
 - [Lab 19: Using SYSIN, SYSOUT, SYSERR](labs/lab-sysin-sysout-syserr.md)
+- [Lab 20: COBOL coding styles](labs/lab-cobol-coding-styles.md)
