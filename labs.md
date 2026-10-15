@@ -33,3 +33,4 @@
 - [Lab 18: Your own IEFBR14 utility](labs/lab-the-do-nothing-program.md)
 - [Lab 19: Using SYSIN, SYSOUT, SYSERR](labs/lab-sysin-sysout-syserr.md)
 - [Lab 20: COBOL coding styles](labs/lab-cobol-coding-styles.md)
+- [Lab 21: Reference Modification](labs/lab-reference-modification.md)
