@@ -13,4 +13,5 @@ TBD
 - [NAMES. Demo of REDEFINES.](samples/cobol/NAMES.cbl)
 - [NOTHING. The minimal COBOL program that will compile.](samples/cobol/NOTHING.cbl)
 - [SSNDEMO. Sample code working with SSNs](samples/cobol/SSNDEMO.cbl)
+- [STYLES. Starter code for lab exercise on coding styles.](samples/cobol/STYLES.cbl)
 
