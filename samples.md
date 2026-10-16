@@ -16,5 +16,6 @@ TBD
 - [NOTHING. The minimal COBOL program that will compile.](samples/cobol/NOTHING.cbl)
 - [S0C7. Sample program that produces a S0C7 abend.](samples/cobol/S0C7.cbl)
 - [SSNDEMO. Sample code working with SSNs](samples/cobol/SSNDEMO.cbl)
+- [STRING. Sample program demonstrating INSPECT, STRING, and UNSTRING](samples/cobol/STRING.cbl)
 - [STYLES. Starter code for lab exercise on coding styles.](samples/cobol/STYLES.cbl)
 
