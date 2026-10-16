@@ -37,3 +37,7 @@
 - [Lab 22: INSPECT, STRING, and UNSTRING](labs/lab-inspect-string-unstring.md)
 - [Lab 23: Decimal Arithmetic](labs/lab-decimal-arithmetic.md)
 - [Lab 24: COBOL tables](labs/lab-cobol-tables.md)
+
+## Batch processing 
+
+- [Lab 25: Copy sequential data set to SYSOUT](labs/lab-copy-qsam-to-sysout.md)
