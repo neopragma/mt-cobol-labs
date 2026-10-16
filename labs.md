@@ -34,3 +34,4 @@
 - [Lab 19: Using SYSIN, SYSOUT, SYSERR](labs/lab-sysin-sysout-syserr.md)
 - [Lab 20: COBOL coding styles](labs/lab-cobol-coding-styles.md)
 - [Lab 21: Reference Modification](labs/lab-reference-modification.md)
+- [Lab 22: Decimal Arithmetic](labs/lab-decimal-arithmetic.md)
