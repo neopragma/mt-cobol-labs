@@ -14,6 +14,11 @@
 - [KSDSLOAD.txt. Data for the sample job, KSDS1.](data/KSDSLOAD.txt)
 - [soliloquoy.txt. Data for lab to DISPLAY to SYSOUT.](data/soliloquoy.txt)
 
+## Supporting documentation for labs
+
+- [Elo Rating System](documents/Elo-Rating-System.pdf)
+- [USATT Ratings Calculation](documents/USATT-Ratings-Calculation.pdf)
+
 ## COBOL starter code for labs
 
 - [AIRPORT. Starter code for lab exercise on COBOL tables.](starters/cobol/AIRPORT.cbl)

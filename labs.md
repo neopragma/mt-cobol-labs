@@ -42,3 +42,4 @@
 
 - [Lab 25: Copy sequential data set to SYSOUT](labs/lab-copy-qsam-to-sysout.md)
 - [Lab 26: Warehouse reorder level](labs/lab-warehouse-reorder-level.md)
+- [Lab 27: Competitor Rating System](labs/lab-create-vsam-ksds.md)
