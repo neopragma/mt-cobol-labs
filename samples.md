@@ -15,6 +15,10 @@ TBD
 - [REFMOD. Starter code for lab exercise on Reference Modification](starters/cobol/REFMOD.cbl)
 - [STYLES. Starter code for lab exercise on coding styles.](starters/cobol/STYLES.cbl)
 
+## Copybooks for starters
+
+- [WARES. Record layout copybook for warehouse exercise.](starters/copybooks/WARES.cbl)
+- [WARES2. Record layout copybook for warehouse exercise using COPY REPLACING.](starters/copybooks/WARES2.cbl)
 
 ## COBOL samples
 

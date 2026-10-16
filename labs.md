@@ -41,3 +41,4 @@
 ## Batch processing 
 
 - [Lab 25: Copy sequential data set to SYSOUT](labs/lab-copy-qsam-to-sysout.md)
+- [Lab 26: Warehouse reorder level](labs/lab-warehouse-reorder-level.md)
