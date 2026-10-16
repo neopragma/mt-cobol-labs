@@ -4,7 +4,15 @@
 
 ## JCL samples
 
-TBD 
+- [COBBATCH. Sample COBOL batch compile and bind.](samples/jcl/COBBATCH.jcl)
+- [DATES. Sample JCL to run the DATES program with suitable SYSIN data.](samples/jcl/DATES.jcl)
+- [KSDS1. Sample IDCAMS job to DELETE, DEFINE, LISTCAT, REPRO, and PRINT a KSDS.](samples/jcl/KSDS1.jcl)
+
+## Data files used in labs
+
+- [iebgener-input.txt. Data for lab exercise on IEBGENER.](data/iebgener-input.txt)
+- [KSDSLOAD.txt. Data for the sample job, KSDS1.](data/KSDSLOAD.txt)
+- [soliloquoy.txt. Data for lab to DISPLAY to SYSOUT.](data/soliloquoy.txt)
 
 ## COBOL starter code for labs
 
