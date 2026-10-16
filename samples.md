@@ -8,10 +8,12 @@ TBD
 
 ## COBOL starter code for labs
 
+- [AIRPORT. Starter code for lab exercise on COBOL tables.](starters/cobol/AIRPORT.cbl)
 - [CALCULO. Starter code for lab exercise on decimal arithmetic.](starters/cobol/CALCULO.cbl)
 - [INSPECTR. Starter code for lab exercise on INSPECT, STRING, UNSTRING](starters/cobol/INSPECTR.cbl)
+- [INVOICE. Starter code for lab exercise on COBOL tables.](starters/cobol/INVOICE.cbl)
+- [REFMOD. Starter code for lab exercise on Reference Modification](starters/cobol/REFMOD.cbl)
 - [STYLES. Starter code for lab exercise on coding styles.](starters/cobol/STYLES.cbl)
-- [AIRPORT. Starter code for lab exercise on COBOL tables.](starters/cobol/AIRPORT.cbl)
 
 
 ## COBOL samples

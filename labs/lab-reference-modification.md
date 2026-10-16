@@ -6,7 +6,7 @@ Goal: Practice using Reference Modification in COBOL.
 
 ## Step 1: Upload the starter code
 
-Upload sample program [REFMOD](../samples/cobol/REFMOD.cbl) to your <userid>.LAB.COBOL library. 
+Upload starter program [REFMOD](../starters/cobol/REFMOD.cbl) to your <userid>.LAB.COBOL library. 
 
 ## Step 2: Fill in the missing code 
 

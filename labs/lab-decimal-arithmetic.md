@@ -6,7 +6,7 @@ Goal: Practice coding decimal arithmetic logic in COBOL.
 
 ## Step 1: Upload the starter code
 
-Upload sample program [CALCULO](../samples/cobol/CALCULO.cbl) to your <userid>.LAB.COBOL library. 
+Upload starter program [CALCULO](../starters/cobol/CALCULO.cbl) to your <userid>.LAB.COBOL library. 
 
 ## Step 2: Fill in the missing code 
 

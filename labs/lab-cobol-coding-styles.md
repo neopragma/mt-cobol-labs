@@ -6,7 +6,7 @@ Goal: Write COBOL code in various styles.
 
 ## Step 1: Upload starter program
 
-Upload program [STYLES](../samples/cobol/STYLES.cbl) to your <userid>.LAB.COBOL library. 
+Upload starter program [STYLES](../starters/cobol/STYLES.cbl) to your <userid>.LAB.COBOL library. 
 
 ## Step 2: Modify STYLES per specifications 
 

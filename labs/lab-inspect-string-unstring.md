@@ -6,7 +6,7 @@ Goal: Practice using the INSPECT, STRING, and UNSTRING verbs.
 
 ## Step 1: Upload the starter code
 
-Upload sample program [INSPECTR](../samples/cobol/INSPECTR.cbl) to your <userid>.LAB.COBOL library. 
+Upload starter program [INSPECTR](../starterss/cobol/INSPECTR.cbl) to your <userid>.LAB.COBOL library. 
 
 ## Step 2: Fill in the missing code 
 
