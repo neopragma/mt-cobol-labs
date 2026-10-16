@@ -6,3 +6,4 @@ Class participants should fork this repository under their own Github IDs so tha
 
 - [Labs](labs.md)
 - [Sample Programs and Starter Code for Labs](samples.md)
+- [Slides](slides/Slides-zOS%20COBOL%20Application%20Programming.pdf)
