@@ -27,7 +27,7 @@
 - [Lab 15: Use IEBGENER to create and load a QSAM data set](labs/lab-iebgener-create-and-load.md)
 - [Lab 16: Use IEBGENER to copy and reformat data](labs/lab-iebgener-copy-and-reformat.md)
 
-## COBOL 
+## COBOL fundamentals
 
 - [Lab 17: Your first COBOL program](labs/lab-your-first-cobol-program.md)
 - [Lab 18: Your own IEFBR14 utility](labs/lab-the-do-nothing-program.md)
@@ -36,3 +36,4 @@
 - [Lab 21: Reference Modification](labs/lab-reference-modification.md)
 - [Lab 22: INSPECT, STRING, and UNSTRING](labs/lab-inspect-string-unstring.md)
 - [Lab 23: Decimal Arithmetic](labs/lab-decimal-arithmetic.md)
+- [Lab 24: COBOL tables](labs/lab-cobol-tables.md)
