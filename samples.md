@@ -44,5 +44,11 @@
 - [NOTHING. The minimal COBOL program that will compile.](samples/cobol/NOTHING.cbl)
 - [S0C7. Sample program that produces a S0C7 abend.](samples/cobol/S0C7.cbl)
 - [SSNDEMO. Sample code working with SSNs](samples/cobol/SSNDEMO.cbl)
-- [STRING. Sample program demonstrating INSPECT, STRING, and UNSTRING](samples/cobol/STRING.cbl)
+- [STRING. Sample program demonstrating INSPECT, STRING, and UNSTRING.](samples/cobol/STRING.cbl)
+
+## CICS samples
+
+- [HELLO1](samples/cics/cobol/HELLO1.cbl) and copybook [HELLODS](samples/cics/copybooks/HELLODS.cbl). SEND with hardcoded 3270 data stream.
+- [HELLO2. SEND TEXT/](samples/cics/cobol/HELLO2.cbl)
+- [HELLO3](samples/cics/cobol/HELLO1.cbl) and mapset [HELLOMSD](samples/cics/bms/HELLOMSD.asm) "Hello, World!" with BMS map.
 
