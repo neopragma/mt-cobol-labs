@@ -39,6 +39,7 @@
 - [BSKEL1. A batch skeleton program.](samples/cobol/BSKEL1.cbl)
 - [CHECK88. Demo 88-level items.](samples/cobol/CHECK88.cbl)
 - [DATES. Demo code to handle dates and times.](samples/cobol/DATES.cbl)
+- [LEAP1](samples/cobol/LEAP1.cbl), [LEAP2](samples/cobol/LEAP2.cbl), [LEAP3](samples/cobol/LEAP3.cbl), [ISLEAP1](samples/cobol/ISLEAP1.cbl), [ISLEAP2](samples/cobol/ISLEAP2.cbl), and [ISLEAP3](samples/cobol/ISLEAP3.cbl) demonstrate three ways to code calling and called programs.
 - [NAMES. Demo of REDEFINES.](samples/cobol/NAMES.cbl)
 - [NOTHING. The minimal COBOL program that will compile.](samples/cobol/NOTHING.cbl)
 - [S0C7. Sample program that produces a S0C7 abend.](samples/cobol/S0C7.cbl)
