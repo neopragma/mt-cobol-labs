@@ -19,7 +19,9 @@ The two rating systems are described in the following documents:
 - [Elo Rating System](../documents/Elo-Rating-System.pdf)
 - [USATT Ratings Calculation](../documents/USATT-Ratings-Calculation.pdf)
 
-The scope of your project is to implement support for adjusting the ratings of two players who have completed a match, when both players already have a rating in the system. Functionality to handle unrated or underrated players is deferred for a future release of the product. The match results must be processed in chronological order.
+The scope of your project is to implement support for adjusting the ratings of two players who have completed a match, when both players already have a rating in the system. Functionality to handle unrated or underrated players is deferred for a future release of the product. That means you have to update the master file, but you don't have to handle adding new records or deleting records.
+
+The match results must be processed in chronological order.
 
 The All-Knowing, All-Seeing System Architects have handed down to you, inscribed upon two massive stone tablets, the following high-level technical specifications:
 
