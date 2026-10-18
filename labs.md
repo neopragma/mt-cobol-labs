@@ -52,3 +52,4 @@
 - [Lab 31: A program to work with the map](labs/lab-cics-bms-2.md)
 - [Lab 32: Make the program pseudoconversational](labs/lab-cics-pseudoconversational.md)
 - [Lab 33: Define and load a KSDS](labs/lab-cics-define-ksds.md)
+- [Lab 34: Read and display a record](labs/lab-cics-ksds-read.md)

@@ -17,7 +17,8 @@ The flow of logic is as follows:
 SEND MAP(UnnnMP1) MAPSET(UnnnPS1) . . . 
 Loop:
 RECEIVE MAP(UnnnMP1) MAPSET(UnnnPS1) . . .
-If user pressed F12, RETURN
+If user pressed F12, RETURN 
+MOVE EIBTRNID to TRNIDO, MOVE EIBTASKN to TASKNO
 SEND MAP(UnnnMP1) MAPSET(UnnnPS1) . . . 
 
 The program is not doing any real work yet. It is only sending and receiving the map.
