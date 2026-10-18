@@ -28,9 +28,9 @@ Use your CICS COBOL compile JCL to compile and bind this program.
 
 ## Step 4: Define the program as a program resource in CICS 
 
-Use CEDA to define the mapset as a program resource. If your userid lacks the necessary access rights, the instructor will do it for you while you watch.
+Use CEDA to define and install the mapset as a program resource. If your userid lacks the necessary access rights, the instructor will do it for you while you watch.
 
-Define transaction Unnn as a transaction resource. Associate it with program UnnnPG1.
+Define transaction Unnn as a transaction resource and install it. Associate it with program UnnnPG1.
 
 ## Step 5: Use CEDF to step through the program
 

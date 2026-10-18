@@ -51,3 +51,4 @@
 - [Lab 30: BMS mapset for a simple application](labs/lab-cics-bms-1.md)
 - [Lab 31: A program to work with the map](labs/lab-cics-bms-2.md)
 - [Lab 32: Make the program pseudoconversational](labs/lab-cics-pseudoconversational.md)
+- [Lab 33: Define and load a KSDS](labs/lab-cics-define-ksds.md)
