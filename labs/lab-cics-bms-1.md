@@ -18,12 +18,25 @@ Define a map in the mapset named UnnnMP1.
 
 Define the following fields on the map:
 
-| Item  | Name | Line | Column | Length | Value | Editable |
-| ----- | ---- | ---- | ------ | ------ | ----- | -------- | 
-| label |      | 5    | 1      | 4      | ACT:  | No       | 
-| field | ACT  | 5    | 6      | 1      | _     | Yes      |
-| label |      | 5    | 13     | 4      | KEY:  | No       |
- 
+| Item    | Name  | Line | Column | Length | Value             | Editable |
+| ------- | ----- | ---- | ------ | ------ | ----------------- | -------- |
+| label   |       | 1    | 33     | 11     | My Fine App       | No       |
+| label   |       | 3    | 1      | 5      | TRNID             | No       |
+| field   | TRNID | 3    | 8      | 4      |                   | No       |
+| label   |       | 3    | 13     | 5      | TASKN             | No       |
+| field   | TASKN | 3    | 20     | 8      |                   | No       |         
+| label   |       | 5    | 1      | 4      | ACT:              | No       | 
+| field   | ACT   | 5    | 6      | 1      | _                 | Yes      |
+| label   |       | 5    | 8      | 4      | KEY:              | No       |
+| field   | KEY   | 5    | 13     | 4      | ____              | Yes      |
+| label   |       | 5    | 18     | 5      | NAME:             | No       |
+| field   | NAME  | 5    | 24     | 12     | ____________      | Yes      |
+| label   |       | 5    | 37     | 5      | DEPT:             | No       |
+| field   | DEPT  | 5    | 43     | 12     | ____________      | Yes      |
+| label   |       | 5    | 56     | 5      | ROLE:             | No       |
+| field   | ROLE  | 5    | 62     | 12     | ____________      | Yes      |
+| stopper |       | 5    | 74     | 0      |                   | No       |
+| label   |       | 24   | 1      | 79     | Press F12 to exit | No       |  
 
 
 
