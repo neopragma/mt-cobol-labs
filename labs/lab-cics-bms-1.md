@@ -18,19 +18,14 @@ Define a map in the mapset named UnnnMP1.
 
 Define the following fields on the map:
 
-- Label. Line 1, Column 1, length 79. Value: "MY FIRST CICS APP", centered on the line.
-- Label. Line 3, Column 1, length 9. Value "TRANSID: ".
-- TRNID Field. Line 3, Column 11, length 4. Not editable.
-- Label. Line 3, Column 16, length 15. Value "  TASK NUMBER: ".
-- TASKN Field. Line 3, Column 32, length 8. Not editable.
-- Label. Line 5, Column 1, length 6. Value: "NAME: ".
-- NAME Field. Line 5, Column 8, length 16. Editable.
-- Label. Line 5, Column 25, length 6. Value "DEPT: ".
-- DEPT Field. Line 5, Column 32, length 16. Editable.
-- Label. Line 5, Column 49, length 6. Value "ROLE: ".
-- ROLE Field. Line 5, Column 56, length 16. Editable.
-- Stopper. Line 5, Column 73, length 0.
-- Label. Line 24, Column 1, length 79. Value: "Press F12 to exit.".
+| Item  | Name | Line | Column | Length | Value | Editable |
+| ----- | ---- | ---- | ------ | ------ | ----- | -------- | 
+| label |      | 5    | 1      | 4      | ACT:  | No       | 
+| field | ACT  | 5    | 6      | 1      | _     | Yes      |
+| label |      | 5    | 13     | 4      | KEY:  | No       |
+ 
+
+
 
 ## Step 2: Assemble the BMS mapset
 
