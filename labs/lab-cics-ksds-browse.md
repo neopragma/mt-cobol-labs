@@ -34,14 +34,14 @@ When the user presses F7, use STARTBR, READPREV, and ENDBR to read the previous 
 
 Under conditions besides "end of file" and "beginning of file," ensure field MSGO is blank. 
 
-## Step 2: Compile and bind the program.
+## Step 4: Compile and bind the program.
 
 Use your CICS COBOL compile JCL to compile and bind this program. 
 
-## Step 4: "New" the program in the CICS environment
+## Step 5: "New" the program in the CICS environment
 
 Use the CEMT transaction to tell CICS there is a new version of the executable.
 
-## Step 5: Use CEDF to step through the program
+## Step 6: Use CEDF to step through the program
 
 Run your transaction with and without CEDF. 
