@@ -48,5 +48,6 @@
 
 - [Lab 28: Your "Hello, World!" CICS program](labs/lab-hello-world-cics.md)
 - [Lab 29: A BMS version of the "Hello, World!" program](labs/lab-hello-world-bms.md)
-- [Lab 30: A simple conversational program](labs/lab-cics-conversational.md)
-- [Lab 31: Converting conversational to pseudoconversational](labs/lab-cics-pseudoconversational.md)
+- [Lab 30: BMS mapset for a simple application](labs/lab-cics-bms-1.md)
+- [Lab 31: A program to work with the map](labs/lab-cics-bms-2.md)
+- [Lab 32: Make the program pseudoconversational](labs/lab-cics-pseudoconversational.md)
