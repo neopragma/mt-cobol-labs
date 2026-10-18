@@ -50,6 +50,6 @@
 
 - [CONVO](samples/cics/cobol/CONVO.cbl), [CONVO2](samples/cics/cobol/CONVO2.cbl), and mapset [CONVMS](samples/cics/cobol/CONVMS.asm). Demonstrates conversational vs. pseudoconversational design.
 - [HELLO1](samples/cics/cobol/HELLO1.cbl) and copybook [HELLODS](samples/cics/copybooks/HELLODS.cbl). SEND with hardcoded 3270 data stream.
-- [HELLO2. SEND TEXT/](samples/cics/cobol/HELLO2.cbl)
+- [HELLO2. SEND TEXT](samples/cics/cobol/HELLO2.cbl)
 - [HELLO3](samples/cics/cobol/HELLO1.cbl) and mapset [HELLOMSD](samples/cics/bms/HELLOMSD.asm) "Hello, World!" with BMS map.
 
