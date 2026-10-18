@@ -53,3 +53,4 @@
 - [Lab 32: Make the program pseudoconversational](labs/lab-cics-pseudoconversational.md)
 - [Lab 33: Define and load a KSDS](labs/lab-cics-define-ksds.md)
 - [Lab 34: Read and display a record](labs/lab-cics-ksds-read.md)
+- [Lab 35: Forward and backward browsing](labs/lab-cics-ksds-browse.md)
