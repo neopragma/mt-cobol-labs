@@ -18,8 +18,10 @@
        01  Unformatted-Name            pic x(160).    
 
        01  Fake-CSV-File.
-         05 filler pic x(40) value "ES,Santiago,Navarro,Hector,Manuel".
-         05 filler pic x(40) value "EN;Philip;Aaron;Johnson"
+         05 filler pic x(20) value "ES,Santiago,".
+         05 filler pic x(20) value "Hector,Manuel".
+         05 filler pic x(20) value "EN;Philip;"
+         05 filler pic x(20) value "Aaron;Johnson".
        01  Fake-CSV-Records redefines Fake-CSV-File.
            05  Fake-CSV-Record occurs 2 indexed by CSV-ix.
                10  Language-Code       pic x(2).
